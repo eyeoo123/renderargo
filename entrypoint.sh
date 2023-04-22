@@ -7,7 +7,7 @@ UUID=${UUID:-'d87c4610-ae8a-4fc9-9a96-e55043ada172'}
 # 其他Paas保活
 PAAS1_URL=https://derden.onrender.com
 PAAS2_URL=https://superficial-excited-carpet.glitch.me
-PAAS3_URL=
+PAAS3_URL=https://well-hushed-jackrabbit.glitch.me
 PAAS4_URL=
 PAAS5_URL=
 PAAS6_URL=
