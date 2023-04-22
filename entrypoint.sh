@@ -5,7 +5,7 @@ WSPATH=${WSPATH:-'argo'}
 UUID=${UUID:-'d87c4610-ae8a-4fc9-9a96-e55043ada172'}
 
 # 其他Paas保活
-PAAS1_URL=https://derden.onrender.com
+PAAS1_URL=
 PAAS2_URL=
 PAAS3_URL=
 PAAS4_URL=
